@@ -75,7 +75,7 @@ Follow these steps to get a local copy of the project up and running.
 
 #### Installation
 
-1.  git clone https://github.com/MrBojken/TalentLink.git
+1.  git clone https://github.com/Neelapranavi/TalentLink
     
 2.  cd TalentLink
     
